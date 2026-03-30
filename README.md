@@ -72,7 +72,7 @@ The Power BI dashboard includes:
 This project demonstrates how data-driven insights can enhance marketing strategies by identifying high-value customer segments, optimizing communication methods, and improving overall campaign effectiveness.
 
 ---
-## Sales Dashboard Preview
+## Dashboard Preview
 
 ## ![Sales Dashboard Preview](dashboard_main.png)
 
